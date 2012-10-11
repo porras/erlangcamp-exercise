@@ -1,0 +1,4 @@
+ebin/
+exercise.boot
+exercise.script
+erl_crash.dump

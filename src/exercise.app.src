@@ -1,0 +1,7 @@
+{application, exercise,
+  [{applications, [kernel, stdlib]},
+   {description, ""},
+   {vsn, "1"},
+   {mod, {exercise_app, []}},
+   {env, []},
+   {registered, [exercise]}]}.
